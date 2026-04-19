@@ -82,7 +82,7 @@ Your PDF  ──▶  Dense Search (meaning)  ──┐
 
 ```bash
 # 1. Clone & setup
-git clone https://github.com/yourusername/hybrid-rag
+git clone https://github.com/SHALINISAURAV/hybrid-rag
 cd hybrid-rag
 python -m venv venv && source venv/bin/activate
 
